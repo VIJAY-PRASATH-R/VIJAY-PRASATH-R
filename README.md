@@ -44,13 +44,9 @@ To secure a **software engineering role** where I can apply my problem-solving s
 
 ---
 
-## 📈 GitHub Activity
+# Test Image
 
-🧩 Currently in the learning & foundation-building phase. Activity will grow consistently.
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-PRASATH-R&show_icons=true&hide=prs,issues&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VIJAY-PRASATH-R)
+![Test](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 
 ---
