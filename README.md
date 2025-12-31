@@ -50,9 +50,8 @@ To secure a **software engineering role** where I can apply my problem-solving s
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: *(add your LinkedIn link here)*
-- Email: *(optional)*
+- LinkedIn: https://www.linkedin.com/in/vijay-prasath-r/
+- Email: vijayprasath6371@gmail.com
 
 ---
 
-⭐ *This profile will evolve as I build projects and strengthen my skills.*
