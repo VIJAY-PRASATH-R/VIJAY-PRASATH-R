@@ -44,9 +44,12 @@ To secure a **software engineering role** where I can apply my problem-solving s
 
 ---
 
-# Test Image
+## 📊 GitHub Stats
 
-![Test](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Stats](https://github-readme-stats.vercel.app/api?username=VIJAY-PRASATH-R&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VIJAY-PRASATH-R)
+
 
 
 ---
