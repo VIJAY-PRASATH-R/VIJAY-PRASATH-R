@@ -45,7 +45,10 @@ To secure a **software engineering role** where I can apply my problem-solving s
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIJAY-PRASATH-R&show_icons=true&theme=default)
+## 📈 GitHub Activity
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY-PRASATH-R&show_icons=true&hide=prs,issues&count_private=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VIJAY-PRASATH-R)
 
 ---
 
