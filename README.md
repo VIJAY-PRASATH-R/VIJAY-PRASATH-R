@@ -43,12 +43,14 @@
 To secure a **software engineering role** where I can apply my problem-solving skills, strengthen my technical foundation, and grow as a professional developer.
 
 ---
+# Vijay Prasath R
 
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=VIJAY-PRASATH-R&show_icons=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VIJAY-PRASATH-R)
+
 
 
 
