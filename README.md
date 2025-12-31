@@ -37,6 +37,11 @@
 - Focus on writing **simple, readable, and efficient code**
 - Practicing platform-style problems for placement readiness
 
+  ### Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_prasath__r?theme=dark&font=Sanchez&ext=heatmap)
+
+  ### Codechef
+  ![CodeChef Stats](https://codechef-stats-card.netlify.app/api/codechef-card?username=kit27am58)
 ---
 
 ## 🎯 Career Objective
