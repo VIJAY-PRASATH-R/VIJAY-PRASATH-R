@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Vijay Prasath R
 
-<!--
-**VIJAY-PRASATH-R/VIJAY-PRASATH-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering (AI & ML) Student  
+📍 India  
+💻 Aspiring Software Engineer | Placement Focused  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 3rd year CSE student specializing in **AI & Machine Learning**
+- Actively preparing for **placements and technical interviews**
+- Strong interest in **problem-solving and core CS fundamentals**
+- Believer in consistent learning and clean fundamentals
+
+---
+
+## 🧠 Currently Learning
+- Data Structures & Algorithms (Python)
+- Object-Oriented Programming
+- Operating Systems & DBMS concepts
+- Basics of AI & ML
+- Web Development fundamentals
+
+---
+
+## 🛠️ Skills & Tools
+**Languages:** Python, C (Basics)  
+**Web:** HTML, CSS  
+**Database:** MySQL (Basics)  
+**Core Subjects:** DSA, OS, DBMS  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📊 Coding & Practice
+- Regularly solving coding problems to improve logic
+- Focus on writing **simple, readable, and efficient code**
+- Practicing platform-style problems for placement readiness
+
+---
+
+## 🎯 Career Objective
+To secure a **software engineering role** where I can apply my problem-solving skills, strengthen my technical foundation, and grow as a professional developer.
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIJAY-PRASATH-R&show_icons=true&theme=default)
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: *(add your LinkedIn link here)*
+- Email: *(optional)*
+
+---
+
+⭐ *This profile will evolve as I build projects and strengthen my skills.*
