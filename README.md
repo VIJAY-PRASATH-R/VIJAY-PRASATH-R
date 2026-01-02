@@ -11,7 +11,6 @@ CSE (AI & ML) Student • Aspiring Software Engineer • Placement Focused
 </p>
 
 ---
-
 ## 🚀 About Me
 - 3rd year Computer Science Engineering student (AI & ML)
 - Actively preparing for **placements and technical interviews**
@@ -47,6 +46,11 @@ CSE (AI & ML) Student • Aspiring Software Engineer • Placement Focused
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+## 📈 GitHub Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijay-prasath-r&bg_color=ffffff&color=6b7280&line=111827&point=374151&area=false)
 
 ---
 
